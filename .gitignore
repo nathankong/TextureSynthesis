@@ -1,0 +1,5 @@
+*.pyc
+output/
+output_conv5/
+texture_images/
+run_scripts/
