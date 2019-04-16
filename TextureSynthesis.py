@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 from ImageUtils import *
 from model import *
 
-SAVE_STEP = 750
-ITERATIONS = 2251
+SAVE_STEP = 1000
+ITERATIONS = 4001
 
 class TextureSynthesis:
     def __init__(self, sess, model, actual_image, layer_constraints, model_name, image_name):
